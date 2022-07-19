@@ -1,0 +1,15 @@
+{
+  "short_name": "스페이스 그래비티",
+  "name": "스페이스 그래비티 - 우주 중력 시뮬레이터",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
